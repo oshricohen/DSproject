@@ -1,0 +1,10 @@
+c:\users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\bin\Debug\DSproject.exe.config
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\bin\Debug\DSproject.exe
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\bin\Debug\DSproject.pdb
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.csprojResolveAssemblyReference.cache
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.Form1.resources
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.FormSetting.resources
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.Properties.Resources.resources
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.csproj.GenerateResource.Cache
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.exe
+C:\Users\oshri\documents\visual studio 2015\Projects\DSproject\DSproject\obj\Debug\DSproject.pdb
