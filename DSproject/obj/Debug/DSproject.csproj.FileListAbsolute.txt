@@ -24,3 +24,11 @@ C:\Users\oshri\Source\Repos\DSproject2\DSproject\obj\Debug\DSproject.csproj.Gene
 F:\git\DSproject\DSproject\bin\Debug\DSproject.exe.config
 F:\git\DSproject\DSproject\obj\Debug\DSproject.exe
 F:\git\DSproject\DSproject\obj\Debug\DSproject.pdb
+D:\DSproject-master\DSproject\bin\Debug\DSproject.exe.config
+D:\DSproject-master\DSproject\obj\Debug\DSproject.exe
+D:\DSproject-master\DSproject\obj\Debug\DSproject.pdb
+D:\DSproject-master\DSproject\obj\Debug\DSproject.csprojResolveAssemblyReference.cache
+D:\DSproject-master\DSproject\obj\Debug\DSproject.Form1.resources
+D:\DSproject-master\DSproject\obj\Debug\DSproject.FormSetting.resources
+D:\DSproject-master\DSproject\obj\Debug\DSproject.Properties.Resources.resources
+D:\DSproject-master\DSproject\obj\Debug\DSproject.csproj.GenerateResource.Cache
